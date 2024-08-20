@@ -19,4 +19,4 @@
 | ------------ |
 |[![](https://tr.rbxcdn.com/4e7f8acd685145fd12cd13310447147e/768/432/Image/Webp)](https://www.roblox.com/games/9756976552/UPDATE-Derelict-Alpha)*By Scrambledly Studios*|
 
-:fa-clock-o: Last updated 2024-08-20
+*Last updated 2024-08-20*
