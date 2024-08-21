@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Contribute-38b000?style=for-the-badge&logo=github&logoColor=f8f9fa&labelColor=212529&link=https%3A%2F%2Fgithub.com%2FIntMarco%2FRobloxGems%2Fissues)
+
 > A list of hidden treasures on Roblox that you won't be able to live without.
 
 `Click on an image to open the game page.`
