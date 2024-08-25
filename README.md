@@ -19,10 +19,10 @@
 | - | - | - |
 |[![](https://tr.rbxcdn.com/e658b526111e28dfd75cea4c65d4cfb8/768/432/Image/Webp)](https://www.roblox.com/games/9524634157/TRAVERSAL)*By @Octik*|[![](https://tr.rbxcdn.com/2ce6502ee177b31d08bed12656813702/768/432/Image/Webp)](https://www.roblox.com/games/2653405165/Boost-Vector)*By Blockage*|[![](https://tr.rbxcdn.com/d40db460ce35087694d32ae6076fcf18/768/432/Image/Webp)](https://www.roblox.com/games/3272915504/Arcane-Odyssey-Mistral-Update)*By @vetexgames*|
 
-|Derelict|neon❖Knights|
-| - | - |
-|[![](https://tr.rbxcdn.com/4e7f8acd685145fd12cd13310447147e/768/432/Image/Webp)](https://www.roblox.com/games/9756976552/UPDATE-Derelict-Alpha)*By Scrambledly Studios*|[![](https://tr.rbxcdn.com/d572f62942e8de5eef27bcb2a8d6d80a/768/432/Image/Webp)](https://www.roblox.com/games/6552369796/neon-Knights-BETA)*By Blockage*|
+|Derelict|neon❖Knights|HELLMET|
+| - | - | - |
+|[![](https://tr.rbxcdn.com/4e7f8acd685145fd12cd13310447147e/768/432/Image/Webp)](https://www.roblox.com/games/9756976552/UPDATE-Derelict-Alpha)*By Scrambledly Studios*|[![](https://tr.rbxcdn.com/d572f62942e8de5eef27bcb2a8d6d80a/768/432/Image/Webp)](https://www.roblox.com/games/6552369796/neon-Knights-BETA)*By Blockage*|[![](https://tr.rbxcdn.com/828fa7dc1345c24390686389292b8981/768/432/Image/Webp)](https://www.roblox.com/games/13815196156/HELLMET-OPEN-ALPHA)*By @Sensei_Developer*|
 
 ---
 
-**⚙︎ Last updated 2024-08-20 ⚙︎**
+**⚙︎ Last updated 2024-08-25 ⚙︎**
