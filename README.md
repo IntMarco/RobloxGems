@@ -27,6 +27,10 @@
 | - | - | - |
 |[![](https://tr.rbxcdn.com/5aabc770369d13176ce714a640eeb7eb/768/432/Image/Webp)](https://www.roblox.com/games/3351674303)*By Driving Empire by Voldex*|[![](https://tr.rbxcdn.com/058e90e494d51cfcaf82d5fa9606e07c/768/432/Image/Webp)](https://www.roblox.com/games/863266079)*By Dualpoint Interactive*|[![](https://tr.rbxcdn.com/dd6d508e18a76b001d5e9771218930e7/768/432/Image/Webp)](https://www.roblox.com/games/4864763388)*By devGem*|
 
+|ROBLOX Rally Racing|||
+| - | - | - |
+|[![](https://tr.rbxcdn.com/b9385cdd7e11d8310b82faafccb69ae6/768/432/Image/Webp)](https://www.roblox.com/games/4992570197)*By Roblox Rallying Group*|||
+
 ---
 
 **⚙︎ Last updated 2024-08-25 ⚙︎**
